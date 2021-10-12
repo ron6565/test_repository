@@ -4,4 +4,8 @@ konnitiwa
 ohirudesu
 konnbannwa
 yuugatadesu
+<<<<<<< HEAD
 sinnyadesu
+=======
+soutyoudesu
+>>>>>>> 1e0e6574addbee63fe5c8af09c8cd43b6a83768c
